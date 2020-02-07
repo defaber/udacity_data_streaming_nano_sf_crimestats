@@ -13,3 +13,11 @@ Increasing .option("maxRatePerPartition",1000), .option("maxOffsetsPerTrigger",2
 helped by actually given the data I needed.  When this was sitting as 200, I wasnt 
 getting anywhere.  Adjusting the two seemed to help.
 ```
+## Batch Example
+![BatchExample](https://github.com/defaber/udacity_data_streaming_nano_sf_crimestats/blob/master/batch.png)
+
+## Consuming Image
+![Consumed](https://github.com/defaber/udacity_data_streaming_nano_sf_crimestats/blob/master/consumed.png)
+
+## Progress Image
+![Progress](https://github.com/defaber/udacity_data_streaming_nano_sf_crimestats/blob/master/progress.png)
